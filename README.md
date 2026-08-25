@@ -3,7 +3,7 @@
 📍 *Universidad Tecnológica Nacional*  
 
 ## ✨ Estudiante  
-- **Nombre:** Gil Zalar, Valentina Milagros
+- **Nombre:** Gil Zalazar, Valentina Milagros
 - **Comisión:** M2026-1
 
 ## 📂 Descripción del Repositorio  
