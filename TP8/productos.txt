@@ -1,0 +1,6 @@
+Arroz,1200,20
+Lechuga,1300,5
+Harina,2000,25
+Leche,3000,30
+Mandarina,100,78
+Chocolate,1500,50
